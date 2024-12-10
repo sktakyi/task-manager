@@ -69,7 +69,7 @@ func main() {
 		var choice int
 		fmt.Scan(&choice)
 
-		// Handle user choice
+		// Control flow for user choice and input
 		switch choice {
 		case 1:
 			var title, description string
